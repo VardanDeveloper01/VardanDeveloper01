@@ -1,6 +1,6 @@
 
 ### Banner
-[![MasterHead](https://www.canva.com/design/DAFJR8FUv0I/bqxE2nfeL0Eoo22B71lk_A/view?utm_content=DAFJR8FUv0I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/VardanDeveloper01/)
+[![MasterHead](GitHubHeader.png)](https://github.com/VardanDeveloper01/)
 
 ### Hi there 👋, I'm Vardan
 
