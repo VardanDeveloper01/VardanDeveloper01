@@ -18,8 +18,8 @@
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vardandev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
+[<img align="left" alt="vardancode | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="@VardanDeveloper | TG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
 <br />
 
 ### Languages and Tools:
@@ -64,3 +64,4 @@
 [website]: https://masteritblog.com/
 [linkedin]: https://www.linkedin.com/in/vardandev/
 [vk]: https://vk.com/vardancode
+[tg]: https://t.me/VardanDeveloper
